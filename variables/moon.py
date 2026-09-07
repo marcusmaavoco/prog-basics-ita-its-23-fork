@@ -1,6 +1,8 @@
 """
 Variable addtion test usin print function.
 """
+import pytest
+import variables
 
 word = "spider"
 thousand = "1000"
